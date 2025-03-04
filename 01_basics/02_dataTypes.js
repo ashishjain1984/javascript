@@ -18,4 +18,6 @@ object
 */
 
 console.log(typeof null);
+
+// A different way of logging
 console.table([typeof name, typeof age, typeof null, typeof unassigned])
